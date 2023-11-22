@@ -1,9 +1,23 @@
-# PHP Appointment Scheduler
+# Tenant Appointment Booking Scheduler - TABS
 
-## Setup
+## What is TABS?
 
-## CSV Input Syntax
+## Documentation
+
+### Features
+
+### Setup
+
+### CSV Input Syntax
 
 The scheduler requires a pre-formatted CSV file containing the following information 
 
-## Running from CLI
+## How to use TABS?
+
+### Options & Arguments
+
+### Text Interface
+
+## Testing
+
+
